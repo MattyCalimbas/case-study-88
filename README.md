@@ -2,6 +2,8 @@
 
 This repository contains a WordPress static website proposal created to showcase and present a front-end facelift for a design firm. The website has been built using the Blocksy theme and Elementor, providing a visually appealing and interactive presentation of the proposed changes.
 
+![Screenshot](./img/demo.gif)
+
 ## Table of Contents
 
 - [Demo](#demo)
