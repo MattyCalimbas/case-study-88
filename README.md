@@ -1,13 +1,12 @@
 # Case Study 88 - A Proposal
 
-This repository contains a WordPress static website proposal created to showcase and present a front-end facelift for a potential design firm. The website has been built using the Blocksy theme and Elementor, providing a visually appealing and interactive presentation of the proposed changes.
+This repository contains a WordPress static website proposal created to showcase and present a front-end facelift for a design firm. The website has been built using the Blocksy theme and Elementor, providing a visually appealing and interactive presentation of the proposed changes.
 
 ## Table of Contents
 
 - [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Customization](#customization)
 - [Contributing](#contributing)
 - [License](#license)
@@ -27,6 +26,8 @@ To view the live demo of the proposal website, visit [Demo Link](https://mattyca
 - **Responsive**: The website is fully responsive, ensuring a seamless viewing experience on various devices and screen sizes.
 
 - **SEO-Friendly**: WordPress and Blocksy provide SEO-friendly features to optimize the website for search engines, helping it rank higher in search results.
+
+- **A.I. Imagery via MidJourney**: Incorporating AI-generated imagery from Midjourney in our WordPress facelift proposal provides visuals that demonstrate design, setting a new standard for inspiration and innovation.
 
 ## Installation
 
@@ -49,13 +50,9 @@ To set up this WordPress static website locally for development or customization
 
 5. Customize the content and design as needed to tailor the proposal to your specific project.
 
-## Usage
-
-After installation and customization, you can use this WordPress website proposal to present your front-end facelift ideas to the potential design firm. The website can be hosted on a live server or shared with the client for review.
-
 ## Customization
 
-Feel free to customize the website's content, design, and layout according to the specific needs and preferences of your potential design firm client. You can use the Elementor drag-and-drop page builder to easily make changes to the website's pages.
+Content, design, and layout can be customized according to the specific needs and preferences. You can use the Elementor drag-and-drop page builder to easily make changes to the website's pages.
 
 ## Contributing
 
@@ -64,3 +61,11 @@ Contributions are welcome! If you have any improvements or suggestions for this 
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md).
+
+### Disclaimer:
+
+This application showcases design awards and accolades for a fictitious website. All awards, honors, and recognitions featured within this application are entirely fictional and have no basis in reality. Any resemblance to real design awards or websites is purely coincidental.
+
+This application is intended for demonstration purposes only. It is not meant to mislead or deceive users into believing that the depicted design awards are real or associated with any actual website.
+
+The creators of this application do not claim any affiliation with or endorsement from any genuine design award organizations. The use of fictitious awards is a creative element for the purpose of this application.
