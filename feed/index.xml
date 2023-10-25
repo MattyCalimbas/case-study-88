@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Case Study 88 | Design</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description></description>
-	<lastBuildDate>Tue, 24 Oct 2023 22:43:35 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Oct 2023 23:58:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.3.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/09/case88Favicon-150x150.png</url>
+	<url>./../wp-content/uploads/2023/09/case88Favicon-150x150.png</url>
 	<title>Case Study 88 | Design</title>
-	<link>/</link>
+	<link>./../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
